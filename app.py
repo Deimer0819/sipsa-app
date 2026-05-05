@@ -35,7 +35,7 @@ modelo, encoders = cargar_modelo()
 # INTERFAZ
 # ============================================================
 
-st.title("🥦 Predictor de Precios de Alimentos")
+st.title("🥦  MercaIA — Mercado Inteligente con IA")
 st.markdown("Consulta el precio estimado de alimentos básicos en Colombia según el mercado, departamento y fecha.")
 st.divider()
 
